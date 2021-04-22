@@ -1,0 +1,2 @@
+hello
+this is our actual attempt to set up a website hosted through github pages
