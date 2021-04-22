@@ -1,2 +1,3 @@
 hello
 this is our actual attempt to set up a website hosted through github pages
+all about using github to setu p your website
