@@ -64,8 +64,8 @@ p {
 .columns-bg {
   background-image: linear-gradient(
     to right,
-    #99ccff,
-    #99ccff 50%,
+    #060066,
+    #060066 50%,
     #ffffff 50%
   );
 }
@@ -117,11 +117,11 @@ p {
 }
 
 .tm-bg-primary {
-  background-color: #99ccff;
+  background-color: #060066;
 }
 
 .tm-text-primary {
-  color: #99ccff;
+  color: #060066;
 }
 
 .tm-text-primary-bright {
@@ -406,7 +406,7 @@ figure.effect-duke:hover p {
 .tm-contact-icon-container {
   display: inline-block;
   background-color: white;
-  color: #99ccff;
+  color: #060066;
   width: 70px;
   height: 70px;
   border-radius: 50%;
@@ -528,8 +528,8 @@ figure.effect-duke:hover p {
 }
 
 .btn-primary {
-  background-color: #99ccff;
-  border-color: #99ccff;
+  background-color: #060066;
+  border-color: #060066;
 }
 
 .btn-secondary {
